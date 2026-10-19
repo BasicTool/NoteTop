@@ -5,3 +5,5 @@ Has features like: Built-in calculator, always on top, minimalistic.
 Installation is easy. Run the "Start" file. Here you are!
 
 If a security prompt appears, choose "More info" and then "Run anyway".
+
+Also you can change the code, if you want a better version!
